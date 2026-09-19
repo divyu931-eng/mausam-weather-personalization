@@ -133,6 +133,31 @@ Enter Location
 Weather Data
 ↓
 Personalized Weather View
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![Mausam Homepage](screenshots/homepage.png)
+
+### 👤 Personalized Homepage
+
+![Personalized Homepage](screenshots/personalized_homepage.png)
+
+### 🌦️ Weather Dashboard
+
+![Weather Dashboard](screenshots/weather_dashborad.png)
+
+### 📋 My Plans
+
+![My Plans](screenshots/my_plans.png)
+
+### 🗺️ Impact Map
+
+![Impact Map](screenshots/impact_map.png)
+
+### 🌤️ Weather Impact
+
+![Weather Impact](screenshots/weather_impact.png)
 
 ## 🛠️ Tech Stack
 
